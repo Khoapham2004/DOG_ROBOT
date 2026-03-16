@@ -7,5 +7,6 @@ The test file is used to take the angle solutions from the forward kinematics an
 After having the sets of solutions, load them(main.cpp u can convert to fil .io) here, upload the code, and press C trans UART to test-run the mechanism.
 
 <img width="573" height="975" alt="image" src="https://github.com/user-attachments/assets/9ce2f6bf-703e-49cc-8561-c9a6363a4820" />
+d590b6ce-2710-4662-8d3b-d2f937a69e55-ezgif.com-video-to-gif-converter (1).gif
 
 
