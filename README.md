@@ -1,12 +1,14 @@
 # DOG_ROBOT
-This is a project about a dog robot 
-— joint kinematics calculations using MATLAB
-<img width="1183" height="983" alt="image" src="https://github.com/user-attachments/assets/002d844e-f508-468b-bf7b-c1ce9556ceb9" />
-The test file is used to take the angle solutions from the forward kinematics and input them to run the program automatically.
-<img width="1300" height="869" alt="image" src="https://github.com/user-attachments/assets/7d4b23a2-70c4-4323-9b71-b23a16015f55" />
-After having the sets of solutions, load them(main.cpp u can convert to fil .io) here, upload the code, and press C trans UART to test-run the mechanism.
+First, this project focuses on the research and development of a quadruped robot (Dog Robot). Our team used the mechanical design of the open-source DINGO Quadruped Robot as a reference. The electronic hardware, PCB design, overall kinematics, control algorithms, and software source code were entirely designed and implemented by our team.
+This GitHub repository includes the complete project source code, including the Raspberry Pi software, image processing module, robot control commands, firmware for the custom PCB, the software developed to operate the robot, and the complete electrical schematic of the system.
+<img width="1085" height="845" alt="image" src="https://github.com/user-attachments/assets/c3bc14e3-607f-42bd-930c-cec5d42519c3" />
+<img width="1305" height="790" alt="image" src="https://github.com/user-attachments/assets/38500385-cedc-4f6c-b950-e5cb30674591" />
+<img width="1297" height="802" alt="image" src="https://github.com/user-attachments/assets/aeafc63c-945e-411b-b634-b2b9dbb58492" />
+<img width="1521" height="860" alt="image" src="https://github.com/user-attachments/assets/77131604-fd71-488c-99c7-798b35e01922" />
+<img width="1439" height="861" alt="image" src="https://github.com/user-attachments/assets/ca8d0393-fa56-4e08-8b1a-b096d4292823" />
 
-<img width="573" height="975" alt="image" src="https://github.com/user-attachments/assets/9ce2f6bf-703e-49cc-8561-c9a6363a4820" />
+
+
 
 
 
